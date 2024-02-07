@@ -2,6 +2,6 @@
   "name": "CEMS",
   "website": "https://github.com/geocmsk",
   "description": "Rues Community",
-  "logo": "https://avatars.githubusercontent.com/u/90604931?v=4",
+  "logo": "https://i.hizliresim.com/7fu4o2x.png",
   "twitter": "https://twitter.com/cwitchking"
 }
